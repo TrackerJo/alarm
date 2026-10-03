@@ -46,6 +46,12 @@ The supplied Arduino sketch exposes a writable characteristic but does not regis
 
 ## Deploy to GitHub Pages
 
+Repository: https://github.com/TrackerJo/alarm
+
+Website: https://trackerjo.github.io/alarm/
+
+GitHub Pages is already configured to publish from `deploy` for this repository. For future website updates, run `npm run deploy`. Push source changes to `main` separately when you want to save them on GitHub.
+
 The project must be a Git repository with an `origin` remote pointing to your GitHub repository. Authenticate Git pushes with SSH or your GitHub credential helper.
 
 For a new repository, initialize it and add your own repository URL:
